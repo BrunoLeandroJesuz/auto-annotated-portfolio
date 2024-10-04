@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Pagina Hardware
+title: Pagina Carro
 date: '2023-04-10'
 client: ''
 description: >-
