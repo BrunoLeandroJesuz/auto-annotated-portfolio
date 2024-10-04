@@ -154,6 +154,9 @@ sections:
       - type: Label
         label: C#
         url: ''
+      - type: Label
+        label: 'Edição de Fotografias '
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
