@@ -102,7 +102,8 @@ sections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
-    projects: []
+    projects:
+      - content/pages/projects/jogo-da-forca.md
     colors: colors-c
     variant: variant-c
     elementId: ''
