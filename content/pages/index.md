@@ -226,4 +226,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
+socialImage: /images/about.jpg
 ---
