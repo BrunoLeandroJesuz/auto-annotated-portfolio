@@ -19,7 +19,8 @@ backgroundImage:
 media:
   type: VideoBlock
   title: Title of the video
-  url: ''
+  url: >-
+    https://drive.google.com/file/d/1OLJKVJjfaPWK2UYGtx_1-j0_WEJQFyh5/view?usp=sharing
   elementId: ''
   autoplay: false
   loop: false
