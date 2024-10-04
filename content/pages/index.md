@@ -227,4 +227,8 @@ sections:
       text:
         textAlign: left
 socialImage: /images/about.jpg
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 ---
