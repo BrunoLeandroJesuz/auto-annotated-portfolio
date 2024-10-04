@@ -10,17 +10,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: full
-        padding:
-          - pt-36
-          - pb-36
-        justifyContent: center
-        borderWidth: 1
   - elementId: ''
     colors: colors-f
     backgroundSize: full
@@ -54,6 +43,17 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-36
+          - pb-36
+        justifyContent: center
+        borderWidth: 1
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
