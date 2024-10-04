@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Pagina Hardware
 date: '2023-04-10'
-client: Awesome client
+client: ''
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
