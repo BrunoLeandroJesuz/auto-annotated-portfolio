@@ -138,7 +138,7 @@ sections:
         label: HTML 5
         url: ''
       - type: Label
-        label: CSS
+        label: CSS 3
         url: ''
       - type: Label
         label: PHP
