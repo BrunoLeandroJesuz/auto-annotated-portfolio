@@ -6,12 +6,6 @@ client: ''
 description: >-
   Este jogo foi desenvolvido na área de Programação e em grupo este jogo
   consistes em um utilizador conseguir ganhar o jogo sem completar o boneco  
-media:
-  type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Project image
-  caption: Caption of the image
-  elementId: ''
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
