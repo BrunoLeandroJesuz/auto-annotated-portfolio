@@ -97,6 +97,7 @@ sections:
     projects:
       - content/pages/projects/jogo-da-forca.md
       - content/pages/projects/text-base-game.md
+      - content/pages/projects/html-woocommerce.md
     colors: colors-c
     variant: variant-c
     elementId: ''
