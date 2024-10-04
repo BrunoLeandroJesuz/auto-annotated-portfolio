@@ -92,7 +92,7 @@ sections:
         justifyContent: center
         borderWidth: 1
   - type: RecentProjectsSection
-    subtitle: Projects
+    subtitle: Projetos
     actions:
       - type: Link
         label: See all projects
