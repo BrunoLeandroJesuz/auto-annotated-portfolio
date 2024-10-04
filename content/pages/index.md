@@ -157,6 +157,9 @@ sections:
       - type: Label
         label: 'Edição de Fotografias '
         url: ''
+      - type: Label
+        label: Edição de vídeo
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
