@@ -71,6 +71,7 @@ sections:
           - mr-0
           - mt-0
           - mb-0
+        borderStyle: double
       title:
         textAlign: left
       subtitle:
