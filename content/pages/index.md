@@ -164,6 +164,9 @@ sections:
       - type: Label
         label: MySQL
         url: ''
+      - type: Label
+        label: NodeJs
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
