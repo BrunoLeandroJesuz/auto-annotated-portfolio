@@ -164,7 +164,7 @@ sections:
           - pt-36
           - pb-36
           - pl-9
-          - pr-4
+          - pr-9
         justifyContent: center
       title:
         textAlign: center
