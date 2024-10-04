@@ -185,7 +185,7 @@ sections:
         label: React
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: Instalação de Sistemas Operativos
         url: ''
       - type: Label
         label: Next.js
