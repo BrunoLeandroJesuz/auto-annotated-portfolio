@@ -4,8 +4,8 @@ title: ConsultaDB
 date: '2023-11-10'
 client: Awesome client
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Este Programa é uma programa onde uma pessoa consegue adicionar utilizador,
+  eliminar um dos utilizadores e dar update aos mesmos.
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
