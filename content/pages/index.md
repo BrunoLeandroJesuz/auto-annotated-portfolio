@@ -43,12 +43,6 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    media:
-      type: ImageBlock
-      url: /images/about.jpg
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
   - type: DividerSection
     title: Divider
     elementId: ''
