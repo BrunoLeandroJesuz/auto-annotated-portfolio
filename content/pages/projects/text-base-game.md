@@ -7,7 +7,7 @@ description: >-
   Este jogo baseia-se nos jogo mortais onde ele tem 4 rounds e tem que chegar ao
   fim sem morrer
 addTitleSuffix: true
-colors: colors-a
+colors: colors-e
 backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
