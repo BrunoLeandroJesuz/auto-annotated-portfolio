@@ -147,10 +147,10 @@ sections:
         label: Python
         url: ''
       - type: Label
-        label: SQL Server
+        label: Java
         url: ''
       - type: Label
-        label: Java
+        label: SQL Server
         url: ''
       - type: Label
         label: C++ / C
