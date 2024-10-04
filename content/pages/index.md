@@ -103,7 +103,6 @@ sections:
         iconPosition: right
         elementId: ''
     projects:
-      - content/pages/projects/project-three.md
       - >-
         content/pages/projects/https:/drive.google.com/file/d/1hvhchuxwadnglibj4xi6urwobzpklwxq/viewuspsharing.md
     colors: colors-c
