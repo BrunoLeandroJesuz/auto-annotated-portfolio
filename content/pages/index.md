@@ -156,10 +156,10 @@ sections:
         label: C#
         url: ''
       - type: Label
-        label: SQL Server
+        label: JavaScript
         url: ''
       - type: Label
-        label: JavaScript
+        label: SQL Server
         url: ''
       - type: Label
         label: MySQL
