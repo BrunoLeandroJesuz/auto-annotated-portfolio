@@ -143,7 +143,7 @@ sections:
         label: SQL
         url: ''
       - type: Label
-        label: Netlify
+        label: PYTHON
         url: ''
       - type: Label
         label: Pancakes
