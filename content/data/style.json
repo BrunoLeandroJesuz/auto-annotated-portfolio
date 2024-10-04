@@ -4,7 +4,7 @@
     "onLight": "#050806",
     "dark": "#000000",
     "onDark": "#FBFFF2",
-    "primary": "#0804F6",
+    "primary": "#498eff",
     "onPrimary": "#FBFFF2",
     "secondary": "#FE491F",
     "onSecondary": "#050806",
@@ -33,8 +33,8 @@
         "letterSpacing": "normal"
     },
     "h4": {
-        "size": "3xl",
-        "weight": "medium",
+        "size": "lg",
+        "weight": "normal",
         "decoration": "none",
         "case": "uppercase",
         "letterSpacing": "normal"
