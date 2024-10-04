@@ -153,7 +153,7 @@ sections:
         label: Java
         url: ''
       - type: Label
-        label: C++
+        label: C++ / C
         url: ''
       - type: Label
         label: C#
