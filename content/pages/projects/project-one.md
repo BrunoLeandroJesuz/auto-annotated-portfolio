@@ -5,9 +5,8 @@ colors: colors-a
 date: '2021-10-15'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  É uma jogo basicamente só de texto onde a pessoa estava em um jogo dos jogos
+  mortais e para ganhar ele tinha de sobreviver ate a round 4/4.
 featuredImage:
   type: ImageBlock
   url: /images/Captura de ecrã 2023-01-20 105249.png
