@@ -190,9 +190,6 @@ sections:
       - type: Label
         label: Web Developer
         url: ''
-      - type: Label
-        label: Pancakes
-        url: ''
     colors: colors-f
     elementId: ''
     styles:
