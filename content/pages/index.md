@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - type: HeroSection
-    title: Bruno
+    title: Bruno Jesus
     subtitle: >-
       This is my info—I'm sharing it all this with ya'll to impress you with all
       the hard work I've done in the past few years. Once you're impressed, you
