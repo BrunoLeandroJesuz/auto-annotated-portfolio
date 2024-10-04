@@ -154,9 +154,6 @@ sections:
       - type: Label
         label: C#
         url: ''
-      - type: Label
-        label: Edição de vídeo
-        url: ''
     colors: colors-f
     elementId: ''
     styles:
