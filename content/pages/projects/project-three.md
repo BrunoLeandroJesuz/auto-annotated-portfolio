@@ -5,9 +5,8 @@ colors: colors-a
 date: '2021-10-22'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Este jogo foi desenvolvido na área de programação em grupo e o objetivo deste
+  jogo é não completar o boneco para não perder 
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
