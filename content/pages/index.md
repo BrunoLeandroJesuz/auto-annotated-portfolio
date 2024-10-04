@@ -127,7 +127,7 @@ sections:
       actions:
         justifyContent: center
   - type: LabelsSection
-    title: ''
+    title: ComPETÊNCIAS Digitais
     subtitle: The section subtitle
     items:
       - type: Label
