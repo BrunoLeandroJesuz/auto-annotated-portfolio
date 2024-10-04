@@ -14,12 +14,6 @@ sections:
     title: Bruno Jesus
     subtitle: ''
     actions: []
-    media:
-      type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
-      caption: Caption of the image
-      elementId: ''
     colors: colors-f
     backgroundSize: full
     elementId: ''
@@ -43,6 +37,19 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    text: |+
+      <div style="text-align: center">Idade : 18 </div>
+
+      <div style="text-align: center">Email : a14413\@oficina.pt</div>
+
+      <div style="text-align: center">Morada : Seroa, Paços de Ferreira</div>
+
+    media:
+      type: ImageBlock
+      url: /images/bg.jpg
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -162,6 +169,38 @@ sections:
           - pb-36
           - pl-9
           - pr-7
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+  - type: LabelsSection
+    title: Competências
+    subtitle: ''
+    items:
+      - type: Label
+        label: Manutenção de Computadores
+        url: ''
+      - type: Label
+        label: Instalação de Sistemas Operativos
+        url: ''
+      - type: Label
+        label: Programação
+        url: ''
+      - type: Label
+        label: Web Developer
+        url: ''
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
         justifyContent: center
       title:
         textAlign: center
