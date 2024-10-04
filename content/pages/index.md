@@ -135,7 +135,7 @@ sections:
     subtitle: ''
     items:
       - type: Label
-        label: HTML
+        label: HTML 5
         url: ''
       - type: Label
         label: CSS
