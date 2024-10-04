@@ -3,9 +3,7 @@ type: ProjectLayout
 title: WooCommerce
 date: '2023-11-10'
 client: Awesome client
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: Fizemos um site de compras de roupas no WordPress.
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
