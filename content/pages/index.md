@@ -167,6 +167,9 @@ sections:
       - type: Label
         label: NodeJs
         url: ''
+      - type: Label
+        label: ViewJS
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
