@@ -91,31 +91,30 @@ sections:
           - pb-36
         justifyContent: center
         borderWidth: 1
-  - colors: colors-f
-    type: FeaturedProjectsSection
-    elementId: ''
+  - type: FeaturedProjectsSection
+    subtitle: 'Projects:'
     actions:
       - type: Link
         label: See all projects
+        altText: See all projects
         url: /projects
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+    projects:
+      - content/pages/projects/jogo-da-forca.md
+    colors: colors-c
+    variant: variant-c
+    elementId: ''
     showDate: false
     showDescription: true
     showFeaturedImage: true
     showReadMoreLink: true
-    variant: variant-b
-    projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
     styles:
       self:
         height: auto
         width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
         padding:
           - pt-24
           - pb-24
@@ -127,8 +126,51 @@ sections:
       subtitle:
         textAlign: left
       actions:
-        justifyContent: flex-end
-    subtitle: Projetos
+        justifyContent: center
+  - type: LabelsSection
+    title: Competências Digitais
+    subtitle: ''
+    items:
+      - type: Label
+        label: HTML
+        url: ''
+      - type: Label
+        label: CSS
+        url: ''
+      - type: Label
+        label: PHP
+        url: ''
+      - type: Label
+        label: SQL
+        url: ''
+      - type: Label
+        label: Python
+        url: ''
+      - type: Label
+        label: Java
+        url: ''
+      - type: Label
+        label: C++
+        url: ''
+      - type: Label
+        label: C#
+        url: ''
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-36
+          - pb-36
+          - pl-9
+          - pr-7
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
 metaTags:
   - type: MetaTag
     property: 'og:title'
