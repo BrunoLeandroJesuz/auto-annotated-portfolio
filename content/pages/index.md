@@ -96,7 +96,7 @@ sections:
     elementId: ''
     actions:
       - type: Link
-        label: See all projects
+        label: Ver Mais
         url: /projects
     showDate: false
     showDescription: true
