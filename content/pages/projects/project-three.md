@@ -7,10 +7,6 @@ client: Awesome client
 description: >-
   Este jogo foi desenvolvido na área de programação em grupo e o objetivo deste
   jogo é não completar o boneco para não perder 
-featuredImage:
-  type: ImageBlock
-  url: /images/bg3.jpg
-  altText: Project thumbnail image
 media:
   type: ImageBlock
   url: /images/bg3.jpg
