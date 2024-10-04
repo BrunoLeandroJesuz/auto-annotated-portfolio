@@ -102,9 +102,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
-    projects:
-      - >-
-        content/pages/projects/https:/drive.google.com/file/d/1hvhchuxwadnglibj4xi6urwobzpklwxq/viewuspsharing.md
+    projects: []
     colors: colors-c
     variant: variant-c
     elementId: ''
