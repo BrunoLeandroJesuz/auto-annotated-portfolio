@@ -150,10 +150,10 @@ sections:
         label: Java
         url: ''
       - type: Label
-        label: SQL Server
+        label: C++ / C
         url: ''
       - type: Label
-        label: C++ / C
+        label: SQL Server
         url: ''
       - type: Label
         label: C#
