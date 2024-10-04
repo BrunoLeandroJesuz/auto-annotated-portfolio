@@ -1,11 +1,11 @@
 ---
 type: ProjectLayout
-title: Jogo da forca
-date: '2022-11-21'
-client: ''
+title: Text Base Game
+date: '2022-11-23'
+client: Awesome client
 description: >-
-  Este jogo foi desenvolvido na área de Programação e em grupo este jogo
-  consistes em um utilizador conseguir ganhar o jogo sem completar o boneco  
+  Este jogo baseia-se nos jogo mortais onde ele tem 4 rounds e tem que chegar ao
+  fim sem morrer
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:

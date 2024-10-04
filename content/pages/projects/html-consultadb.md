@@ -1,11 +1,11 @@
 ---
 type: ProjectLayout
-title: Jogo da forca
-date: '2022-11-21'
-client: ''
+title: ConsultaDB
+date: '2023-11-10'
+client: Awesome client
 description: >-
-  Este jogo foi desenvolvido na área de Programação e em grupo este jogo
-  consistes em um utilizador conseguir ganhar o jogo sem completar o boneco  
+  Este Programa é uma programa onde uma pessoa consegue adicionar utilizador,
+  eliminar um dos utilizadores e dar update aos mesmos.
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
