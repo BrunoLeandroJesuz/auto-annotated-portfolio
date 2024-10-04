@@ -182,10 +182,10 @@ sections:
         label: Manutenção de Computadores
         url: ''
       - type: Label
-        label: Programação
+        label: Instalação de Sistemas Operativos
         url: ''
       - type: Label
-        label: Instalação de Sistemas Operativos
+        label: Programação
         url: ''
       - type: Label
         label: Next.js
