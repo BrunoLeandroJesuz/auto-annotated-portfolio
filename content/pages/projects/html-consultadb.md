@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: ConsultaDB
+title: Consulta - DB
 date: '2023-11-10'
 client: Awesome client
 description: >-
