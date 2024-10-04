@@ -144,10 +144,10 @@ sections:
         label: PHP
         url: ''
       - type: Label
-        label: SQL Server
+        label: Python
         url: ''
       - type: Label
-        label: Python
+        label: SQL Server
         url: ''
       - type: Label
         label: Java
