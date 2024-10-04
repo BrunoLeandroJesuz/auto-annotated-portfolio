@@ -58,13 +58,19 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Sobre Mim
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      Sou aluno no terceiro ano do Curso de Técnico de Gestão e Programação de
+      Sistemas Informáticos na OFICINA - Escola Profissional. 
+
+
+      Tenho interesse em desenvolver trabalho na área de hardware e de
+      programação.
+
+
+      Considero-me dedicado, sociável e trabalhador.
+
+
+
     elementId: ''
     styles:
       self:
