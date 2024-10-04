@@ -179,7 +179,7 @@ sections:
     subtitle: ''
     items:
       - type: Label
-        label: 'Manutenção '
+        label: Manutenção de Computadores
         url: ''
       - type: Label
         label: React
