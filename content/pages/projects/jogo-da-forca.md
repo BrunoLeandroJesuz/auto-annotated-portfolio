@@ -8,11 +8,4 @@ description: >-
   consistes em um utilizador conseguir ganhar o jogo sem completar o boneco  
 addTitleSuffix: true
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 100
 ---
