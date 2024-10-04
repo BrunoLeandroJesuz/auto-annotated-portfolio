@@ -14,12 +14,6 @@ sections:
     title: Bruno Jesus
     subtitle: ''
     actions: []
-    media:
-      type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
-      caption: Caption of the image
-      elementId: ''
     colors: colors-f
     backgroundSize: full
     elementId: ''
