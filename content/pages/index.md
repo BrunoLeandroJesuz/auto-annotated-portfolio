@@ -37,6 +37,15 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    text: |+
+
+
+      Idade :
+
+      Email : 
+
+      Morada : 
+
   - type: DividerSection
     title: Divider
     elementId: ''
