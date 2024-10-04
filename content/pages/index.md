@@ -144,9 +144,6 @@ sections:
         label: PHP
         url: ''
       - type: Label
-        label: SQL
-        url: ''
-      - type: Label
         label: Python
         url: ''
       - type: Label
@@ -160,6 +157,18 @@ sections:
         url: ''
       - type: Label
         label: JavaScript
+        url: ''
+      - type: Label
+        label: SQL Server
+        url: ''
+      - type: Label
+        label: MySQL
+        url: ''
+      - type: Label
+        label: NodeJs
+        url: ''
+      - type: Label
+        label: ViewJS
         url: ''
     colors: colors-f
     elementId: ''
