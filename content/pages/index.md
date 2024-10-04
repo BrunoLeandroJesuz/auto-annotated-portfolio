@@ -182,10 +182,10 @@ sections:
         label: Manutenção de Computadores
         url: ''
       - type: Label
-        label: React
+        label: Microsoft Office
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: React
         url: ''
       - type: Label
         label: Next.js
