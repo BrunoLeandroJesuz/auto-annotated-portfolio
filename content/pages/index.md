@@ -143,7 +143,7 @@ sections:
         label: SQL
         url: ''
       - type: Label
-        label: PYTHON
+        label: Python
         url: ''
       - type: Label
         label: Pancakes
