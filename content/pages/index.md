@@ -47,7 +47,7 @@ sections:
     colors: colors-d
     variant: variant-b
     title: ''
-    subtitle: The section subtitle
+    subtitle: 'Nome : Bruno Leandro Silva Jesus'
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
