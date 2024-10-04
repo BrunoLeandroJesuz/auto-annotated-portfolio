@@ -153,10 +153,13 @@ sections:
         label: Java
         url: ''
       - type: Label
-        label: C++
+        label: C++ / C
         url: ''
       - type: Label
         label: C#
+        url: ''
+      - type: Label
+        label: ''
         url: ''
     colors: colors-f
     elementId: ''
