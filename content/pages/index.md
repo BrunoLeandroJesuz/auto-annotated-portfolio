@@ -49,7 +49,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/Design sem nome.png
+      url: /images/Design sem nome (1).png
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
