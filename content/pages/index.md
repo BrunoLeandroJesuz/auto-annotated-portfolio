@@ -185,10 +185,10 @@ sections:
         label: Programação
         url: ''
       - type: Label
-        label: Instalação de Sistemas Operativos
+        label: Next.js
         url: ''
       - type: Label
-        label: Next.js
+        label: Instalação de Sistemas Operativos
         url: ''
       - type: Label
         label: Netlify
