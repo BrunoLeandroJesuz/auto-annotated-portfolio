@@ -137,7 +137,7 @@ sections:
         label: CSS
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: PHP
         url: ''
       - type: Label
         label: Next.js
