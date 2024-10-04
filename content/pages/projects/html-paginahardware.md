@@ -9,13 +9,6 @@ description: >-
   site de um configurador de hardware para um PC  
 addTitleSuffix: true
 colors: colors-e
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 100
 media:
   type: VideoBlock
   title: Title of the video
