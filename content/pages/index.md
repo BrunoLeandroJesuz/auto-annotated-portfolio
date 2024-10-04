@@ -140,7 +140,7 @@ sections:
         label: PHP
         url: ''
       - type: Label
-        label: Next.js
+        label: SQL
         url: ''
       - type: Label
         label: Netlify
