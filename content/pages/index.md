@@ -92,7 +92,7 @@ sections:
         justifyContent: center
         borderWidth: 1
   - type: FeaturedProjectsSection
-    subtitle: 'Projects:'
+    subtitle: Projetos
     actions: []
     projects:
       - content/pages/projects/jogo-da-forca.md
