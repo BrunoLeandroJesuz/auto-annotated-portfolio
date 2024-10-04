@@ -226,7 +226,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
-socialImage: /images/about.jpg
+socialImage: /images/bg1.jpg
 metaTags:
   - type: MetaTag
     property: 'og:title'
