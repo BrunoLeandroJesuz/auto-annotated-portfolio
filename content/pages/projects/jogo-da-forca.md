@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Jogo da forca
 date: '2021-11-21'
-client: Awesome client
+client: ''
 description: >-
   Este jogo foi desenvolvido na área de Programação e em grupo este jogo
   consistes em um utilizador conseguir ganhar o jogo sem completar o boneco  
