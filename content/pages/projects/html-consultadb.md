@@ -1,8 +1,8 @@
 ---
 type: ProjectLayout
-title: ConsultaDB
+title: Consulta - DB
 date: '2023-11-10'
-client: Awesome client
+client: ''
 description: >-
   Este Programa é uma programa onde uma pessoa consegue adicionar utilizador,
   eliminar um dos utilizadores e dar update aos mesmos.
