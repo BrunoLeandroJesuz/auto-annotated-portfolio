@@ -3,9 +3,7 @@ type: ProjectLayout
 title: Text Base Game
 date: '2021-11-21'
 client: Awesome client
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: 'Este jogo Basease '
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
