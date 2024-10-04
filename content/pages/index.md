@@ -159,7 +159,7 @@ sections:
         label: C#
         url: ''
       - type: Label
-        label: C
+        label: ''
         url: ''
     colors: colors-f
     elementId: ''
