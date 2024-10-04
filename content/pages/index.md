@@ -58,19 +58,16 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Sobre Mim
-    text: >+
-      Sou aluno no terceiro ano do Curso de Técnico de Gestão e Programação de
-      Sistemas Informáticos na OFICINA - Escola Profissional. 
+    text: >
+      `Sou aluno no terceiro ano do Curso de Técnico de Gestão e Programação de
+      Sistemas Informáticos na OFICINA - Escola Profissional.`
 
 
-      Tenho interesse em desenvolver trabalho na área de hardware e de
-      programação.
+      `Tenho interesse em desenvolver trabalho na área de hardware e de
+      programação.`
 
 
-      Considero-me dedicado, sociável e trabalhador.
-
-
-
+      `Considero-me dedicado, sociável e trabalhador.`
     elementId: ''
     styles:
       self:
