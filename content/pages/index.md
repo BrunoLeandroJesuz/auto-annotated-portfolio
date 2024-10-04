@@ -182,7 +182,7 @@ sections:
         label: Manutenção de Computadores
         url: ''
       - type: Label
-        label: React
+        label: Programação
         url: ''
       - type: Label
         label: Instalação de Sistemas Operativos
