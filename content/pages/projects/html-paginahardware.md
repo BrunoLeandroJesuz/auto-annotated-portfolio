@@ -1,18 +1,18 @@
 ---
 type: ProjectLayout
-title: Pagina Hardware
+title: Pagina Carro
 date: '2023-04-10'
 client: ''
 description: >-
   Esta pagina de hardware foi uma proposta para com um tutorial e implementar
-  essa funcionalidade do vídeo em um site com o tema que quisesse-mos e eu fiz o
-  site de um configurador de hardware para um PC  
+  essa funcionalidade do vídeo em um site com o tema que quiséssemos e eu fiz o
+  site de um configurador de carros sendo um site de customização.
 addTitleSuffix: true
 colors: colors-e
 media:
   type: VideoBlock
   title: Title of the video
-  url: ''
+  url: 'https://youtu.be/JAUaFHkhbhg'
   elementId: ''
   autoplay: false
   loop: false
