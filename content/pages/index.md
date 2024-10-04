@@ -104,6 +104,7 @@ sections:
         elementId: ''
     projects:
       - content/pages/projects/jogo-da-forca.md
+      - content/pages/projects/text-base-game.md
     colors: colors-c
     variant: variant-c
     elementId: ''
