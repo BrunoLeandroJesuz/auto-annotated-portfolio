@@ -24,9 +24,4 @@ media:
   muted: false
   controls: true
   aspectRatio: '16:9'
-featuredImage:
-  type: ImageBlock
-  altText: altText of the image
-  caption: Caption of the image
-  elementId: ''
 ---
