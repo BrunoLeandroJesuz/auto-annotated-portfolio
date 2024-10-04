@@ -38,13 +38,11 @@ sections:
       actions:
         justifyContent: flex-start
     text: |+
+      <div style="text-align: center">Idade : 18 </div>
 
+      <div style="text-align: center">Email : a14413\@oficina.pt</div>
 
-      Idade :
-
-      Email : 
-
-      Morada : 
+      <div style="text-align: center">Morada : Seroa, Paços de Ferreira</div>
 
   - type: DividerSection
     title: Divider
