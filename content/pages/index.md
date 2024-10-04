@@ -135,10 +135,10 @@ sections:
     subtitle: ''
     items:
       - type: Label
-        label: HTML
+        label: HTML 5
         url: ''
       - type: Label
-        label: CSS
+        label: CSS 3
         url: ''
       - type: Label
         label: PHP
@@ -159,7 +159,7 @@ sections:
         label: C#
         url: ''
       - type: Label
-        label: ''
+        label: JavaScript
         url: ''
     colors: colors-f
     elementId: ''
