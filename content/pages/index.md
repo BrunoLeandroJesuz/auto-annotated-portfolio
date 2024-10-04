@@ -92,13 +92,14 @@ sections:
         justifyContent: center
         borderWidth: 1
   - type: FeaturedProjectsSection
-    subtitle: 'Projects:'
+    subtitle: Projetos
     actions: []
     projects:
       - content/pages/projects/jogo-da-forca.md
       - content/pages/projects/text-base-game.md
       - content/pages/projects/html-woocommerce.md
       - content/pages/projects/html-consultadb.md
+      - content/pages/projects/html-paginahardware.md
     colors: colors-c
     variant: variant-c
     elementId: ''
