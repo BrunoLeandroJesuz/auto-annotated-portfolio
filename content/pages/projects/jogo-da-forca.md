@@ -4,8 +4,8 @@ title: Jogo da forca
 date: '2021-11-21'
 client: Awesome client
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Este jogo foi desenvolvido na área de Programação e em grupo este jogo
+  consistes em um utilizador conseguir ganhar o jogo sem completar o boneco  
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
