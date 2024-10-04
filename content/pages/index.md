@@ -176,7 +176,7 @@ sections:
         textAlign: center
   - type: LabelsSection
     title: Competências
-    subtitle: The section subtitle
+    subtitle: ''
     items:
       - type: Label
         label: 'WEB 1, 2, 3'
