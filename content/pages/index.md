@@ -45,7 +45,7 @@ sections:
     actions: []
   - type: TextSection
     colors: colors-d
-    variant: variant-a
+    variant: variant-b
     title: The Section Title
     subtitle: The section subtitle
     text: >-
