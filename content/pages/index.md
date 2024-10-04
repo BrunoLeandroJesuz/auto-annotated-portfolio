@@ -43,41 +43,6 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-  - type: TextSection
-    colors: colors-d
-    variant: variant-b
-    title: ''
-    subtitle: 'Nome : Bruno Leandro Silva Jesus'
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-28
-          - pb-28
-          - pl-9
-          - pr-4
-        justifyContent: center
-        margin:
-          - ml-0
-          - mr-0
-          - mt-0
-          - mb-0
-        borderStyle: double
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
