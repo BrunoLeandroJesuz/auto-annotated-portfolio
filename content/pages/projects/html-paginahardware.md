@@ -4,8 +4,9 @@ title: Pagina Hardware
 date: '2023-04-10'
 client: ''
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Esta pagina de hardware foi uma proposta para com um tutorial e implementar
+  essa funcionablidade do vídeo em um site com o tema que quisesse-mos e eu fiz
+  o site de um configurador de hardware para um pc  
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
