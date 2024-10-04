@@ -144,7 +144,7 @@ sections:
         label: PHP
         url: ''
       - type: Label
-        label: SQL
+        label: SQL Server
         url: ''
       - type: Label
         label: Python
