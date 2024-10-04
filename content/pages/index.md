@@ -127,7 +127,7 @@ sections:
       actions:
         justifyContent: center
   - type: LabelsSection
-    title: Skills
+    title: ''
     subtitle: The section subtitle
     items:
       - type: Label
