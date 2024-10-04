@@ -153,10 +153,10 @@ sections:
         label: C++ / C
         url: ''
       - type: Label
-        label: SQL Server
+        label: C#
         url: ''
       - type: Label
-        label: C#
+        label: SQL Server
         url: ''
       - type: Label
         label: JavaScript
