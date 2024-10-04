@@ -188,7 +188,7 @@ sections:
         label: Programação
         url: ''
       - type: Label
-        label: Next.js
+        label: Web Developer
         url: ''
       - type: Label
         label: Netlify
