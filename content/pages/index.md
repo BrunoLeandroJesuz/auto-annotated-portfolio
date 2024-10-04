@@ -67,10 +67,10 @@ sections:
           - pr-4
         justifyContent: center
         margin:
-          - ml-8
-          - mr-8
-          - mt-8
-          - mb-8
+          - ml-72
+          - mr-72
+          - mt-72
+          - mb-72
       title:
         textAlign: left
       subtitle:
