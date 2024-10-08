@@ -138,10 +138,10 @@ sections:
     subtitle: ''
     items:
       - type: Label
-        label: HTML 5
+        label: CSS 3
         url: ''
       - type: Label
-        label: CSS 3
+        label: HTML 5
         url: ''
       - type: Label
         label: PHP
