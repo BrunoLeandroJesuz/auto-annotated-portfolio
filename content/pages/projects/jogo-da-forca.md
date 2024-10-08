@@ -11,5 +11,5 @@ colors: colors-e
 metaTags:
   - type: MetaTag
     property: 'og:title'
-    content: ''
+    content: '1'
 ---
