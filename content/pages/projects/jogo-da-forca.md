@@ -8,4 +8,8 @@ description: >-
   consistes em um utilizador conseguir ganhar o jogo sem completar o boneco  
 addTitleSuffix: true
 colors: colors-e
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 ---
